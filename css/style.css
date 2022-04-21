@@ -31,6 +31,10 @@ h1{
 	margin-top: 50px;
 }
 
+section{
+	margin-bottom: 200px;
+}
+
 nav{
 	float: right;
 	margin-top: 85px;
@@ -82,4 +86,9 @@ th{
 td{
 	border: 1px solid;
 	height: 45px;
+}
+
+footer{
+	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
+	height: 100px;
 }
