@@ -122,6 +122,19 @@ td{
 	height: 45px;
 }
 
+.botao{
+	margin-top: 150px;
+}
+
+button{
+	display: block;
+	margin-top: 100px;
+	margin: 0 auto;
+	width: 100px;
+	height: 30px;
+}
+
+
 footer{
 	background: linear-gradient(68.15deg, #0e1f36 19.62%, #194b91 85.61%);
 	height: 100px;
